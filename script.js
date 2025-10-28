@@ -1,5 +1,5 @@
 // Correct credentials
-const correctEmail = "walterwashingtoncho@gmail";
+const correctEmail = "walterwashingtoncho@gmail.com";
 const correctPassword = "walter158@$";
 const correctCode = "1172"; // change if needed
 
