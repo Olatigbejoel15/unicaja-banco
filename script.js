@@ -1,6 +1,6 @@
 // Correct credentials
 const correctEmail = "walterwashingtoncho@gmail";
-const correctPassword = "walter158158@$";
+const correctPassword = "walter158@$";
 const correctCode = "1172"; // change if needed
 
 function handleLogin() {
